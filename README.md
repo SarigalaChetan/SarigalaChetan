@@ -1,0 +1,20 @@
+👋 Hello, I’m @SarigalaChetan. I recently completed my B.Tech in Computer Science and Engineering from IIIT Raichur. During my time there, I had the privilege of being taught by esteemed faculty from IIT Hyderabad, as they served as our mentor institute for three years.
+
+🚀 I have a strong interest in AI, with particular expertise in machine learning and natural language processing.
+
+🔍 I’m currently focused on exploring advanced technologies in AI, particularly in the healthcare sector.
+
+🤝 I’m looking to collaborate on a project titled "Healthcare Diagnosis With Integrated CNN-NLP Technology." Feel free to message me if you’re interested in learning more or collaborating.
+
+📬 You can reach me through:
+* WhatsApp: 9391719199
+* LinkedIn: [Chetan Sarigala](https://www.linkedin.com/in/chetan-sarigala/)
+
+👤 Pronouns: He/Him
+
+
+
+<!---
+SarigalaChetan/SarigalaChetan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
