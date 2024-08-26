@@ -4,7 +4,7 @@
 
 🔍 I’m currently focused on exploring advanced technologies in AI, particularly in the healthcare sector.
 
-🤝 I’m looking to collaborate on a project titled "Healthcare Diagnosis With Integrated CNN-NLP Technology." Feel free to message me if you’re interested in learning more or collaborating.
+🤝 I would like to collaborate on a project titled "Healthcare Diagnosis With Integrated CNN-NLP Technology." Feel free to message me if you’re interested in learning more or collaborating.
 
 📬 You can reach me through:
 * WhatsApp: 9391719199
