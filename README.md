@@ -13,8 +13,11 @@
 👤 Pronouns: He/Him
 
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SarigalaChetan&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarigalaChetan&layout=compact&theme=dark)
 
 <!---
-SarigalaChetan/SarigalaChetan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SarigalaChetan/SarigalaChetaSarigalaChetann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
